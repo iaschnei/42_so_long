@@ -1,5 +1,5 @@
 # 42_so_long
-Small 2D game in C using 42's minilibX, also my first graphical project !
+Small 2D game in C using 42's minilibX, the school's graphical library !
 
 The goal is to help Suzy collect skulls for her grave. You need to collect every skull before being able to leave !
 There is also a move counter in the terminal.
